@@ -14,7 +14,7 @@ import java.util.Scanner;
 public class Assignment {
 
     public static void main(String[] args) {
-//ths is a main method that runs the whole applivation by calling the methdos included in the assisgnment
+//this is a main method that runs the whole application by calling the methods included in the assignment
 //we have 3 files because the assignment said so
         Scanner inputDevice = new Scanner(System.in);
         System.out.println("BRIGHT FUTURE TECHNOLOGIES APPLICATION");
